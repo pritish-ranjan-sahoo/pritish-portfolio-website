@@ -20,7 +20,7 @@ export default function Socials() {
           className="text-gray-250 hover:text-white"
         >
           <img
-            src="/public/insta.svg"
+            src="public/insta.svg"
             alt="insta"
             width={25}
             height={25}
@@ -33,7 +33,7 @@ export default function Socials() {
           className="text-gray-200 hover:text-white"
         >
           <img
-            src="/public/github.svg"
+            src="public/github.svg"
             alt=""
             width={25}
             height={25}
@@ -46,7 +46,7 @@ export default function Socials() {
           className="text-gray-250 hover:text-white"
         >
           <img
-            src="/public/linkedin.svg"
+            src="public/linkedin.svg"
             alt="linkedin"
             width={25}
             height={25}
