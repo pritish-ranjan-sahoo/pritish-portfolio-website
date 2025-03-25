@@ -35,28 +35,28 @@
     ],
     "projects":[
         {
-            "img_url":"public/uberproject.png",
+            "img_url":"/uberproject.png",
             "name":"Uber - A full stack app",
             "desc":"A full-stack Uber clone which allows users to sign up, book rides, and track them in real time, while captains can accept or reject ride requests.",
             "tech":["React.js","Express.js","MongoDB","Tailwind CSS","React-router","Socket.io","Mongoose","Postman","vercel","Railway.app"],
             "link":"https://uber-frontend-taupe.vercel.app/"
         },
         {
-            "img_url":"public/spotifyproject.png",
+            "img_url":"/spotifyproject.png",
             "name":"Web Music - A spotify Inspiration",
             "desc":"A frontend music app for seamless playback, dynamic library updates, easy navigation, and a responsive design, ensuring a smooth and enjoyable user experience across all devices.",
             "tech":["HTML","CSS","JavaScript"],
             "link":"https://github.com/pritish-ranjan-sahoo/music_web_app"
         },
         {
-            "img_url":"public/todoproject.png",
+            "img_url":"/todoproject.png",
             "name":"iTask - Your own task manager",
             "desc":"A simple To-Do app for efficient task management, allowing users to add, edit, delete, complete and filter tasks for better organization and productivity.",
             "tech":["React.js","Tailwind CSS","Vite"],
             "link":"https://github.com/pritish-ranjan-sahoo/todo_application"
         },
         {
-            "img_url":"public/amazonproject.png",
+            "img_url":"/amazonproject.png",
             "name":"Amazon.in - the UI/UX clone",
             "desc":"A UI/UX pixel perfect replica of Amazon.in. This project is a static front-end clone that visually mimics Amazon's website layout without any backend functionality.",
             "tech":["HTML","CSS"],

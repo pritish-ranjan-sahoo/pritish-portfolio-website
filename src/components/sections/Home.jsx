@@ -9,7 +9,7 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <div className="w-full pb-6 pt-25 md:pt-6 flex justify-center items-center ">
-          <img src="public/profile.png" alt="profile_pic" 
+          <img src="/profile.png" alt="profile_pic" 
           width={200}
           className="rounded-full border-blue-500/30 shadow-[0_0_45px_rgba(59,130,246,0.6)]"
           />
@@ -32,7 +32,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="public/Resume_Pritish.pdf"
+              href="/Resume_Pritish.pdf"
               target="_blank"
               className="flex justify-center items-center gap-2 border text-lg border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-200 
              hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10"

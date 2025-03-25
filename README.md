@@ -18,6 +18,7 @@ This is a personal portfolio website showcasing my skills, projects, and experie
 ## 📂 Project Structure
 ```plaintext
 📦 portfolio-website
+ ┣ 📂 public
  ┣ 📂 src
  ┃ ┣ 📂 assets
  ┃ ┣ 📂 components

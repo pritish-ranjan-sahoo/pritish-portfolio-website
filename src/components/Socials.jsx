@@ -5,7 +5,7 @@ export default function Socials() {
     <>
       <p className="text-gray-200 hover:text-white text-sm my-3 gap-4 mt-12 font-mono flex justify-center items-center">
         <img
-          src="public/call.svg"
+          src="/call.svg"
           alt=""
           width={18}
           height={18}
@@ -20,7 +20,7 @@ export default function Socials() {
           className="text-gray-250 hover:text-white"
         >
           <img
-            src="public/insta.svg"
+            src="/insta.svg"
             alt="insta"
             width={25}
             height={25}
@@ -33,7 +33,7 @@ export default function Socials() {
           className="text-gray-200 hover:text-white"
         >
           <img
-            src="public/github.svg"
+            src="/github.svg"
             alt=""
             width={25}
             height={25}
@@ -46,7 +46,7 @@ export default function Socials() {
           className="text-gray-250 hover:text-white"
         >
           <img
-            src="public/linkedin.svg"
+            src="/linkedin.svg"
             alt="linkedin"
             width={25}
             height={25}
