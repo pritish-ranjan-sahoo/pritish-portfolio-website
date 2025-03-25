@@ -1,6 +1,6 @@
 # Portfolio Website
 
-🔗 **Live Link:** [Click here](https://github.com/pritish-ranjan-sahoo/)
+🔗 **Live Link:** [Click here](https://pritish-ranjan-sahoo.vercel.app/)
 
 ## 🚀 Overview
 This is a personal portfolio website showcasing my skills, projects, and experience as a Full Stack Web Developer. Built with a focus on clean UI and smooth user experience, it serves as a central hub to highlight my work and technical expertise.

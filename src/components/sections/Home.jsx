@@ -9,7 +9,7 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <div className="w-full pb-6 pt-25 md:pt-6 flex justify-center items-center ">
-          <img src="/src/assets/profile.png" alt="profile_pic" 
+          <img src="/public/profile.png" alt="profile_pic" 
           width={200}
           className="rounded-full border-blue-500/30 shadow-[0_0_45px_rgba(59,130,246,0.6)]"
           />
