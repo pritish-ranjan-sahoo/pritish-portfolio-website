@@ -1,7 +1,7 @@
 {
     "skills" :{
         "frontend": ["HTML", "CSS","JavaScript", "Tailwind CSS", "React.js", "Next.js"],
-        "backend": ["Node.js", "Express.js", "Next.js API","MongoDB"],
+        "backend": ["Node.js", "Express.js", "Next.js API","MongoDB","Socket.io"],
         "tools": ["Vercel","Railway.app","Postman API","Version Control using Git", "GitHub" ],
         "courseWork": ["Java", "Python", "C", "C++", "JavaScript","DSA", "DBMS", "Computer System Architecture", "Data Science", "Operating Systems"]
     },
