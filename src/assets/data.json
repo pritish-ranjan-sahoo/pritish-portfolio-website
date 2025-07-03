@@ -1,66 +1,71 @@
 {
     "skills" :{
         "frontend": ["HTML", "CSS","JavaScript", "Tailwind CSS", "React.js", "Next.js"],
-        "backend": ["Node.js", "Express.js", "Next.js API","MongoDB","Socket.io"],
-        "tools": ["Vercel","Railway.app","Postman API","Version Control using Git", "GitHub" ],
-        "courseWork": ["Java", "Python", "C", "C++", "JavaScript","DSA", "DBMS", "Computer System Architecture", "Data Science", "Operating Systems"]
+        "backend": ["Node.js", "Express.js", "Next.js API","MongoDB","Socket.io","WebSockets"],
+        "tools": ["Vercel","Railway.app","Postman API","Version Control using Git", "GitHub", "LaTex" ],
+        "courseWork": ["Java", "Python", "C", "C++","DSA", "DBMS", "Computer System Architecture", "Data Science", "Operating Systems"]
     },
     "education":[
         {
             "type":"B.Tech. in CSE",
-            "year":"2022-26",
+            "year":"Oct 2022 - Present",
             "institute":"IGIT, Sarang",
-            "score":"CGPA : 9.04/10.0 (5th Sem)"
+            "score":"CGPA : 9.04/10.0 (till 5th Sem)"
         },
         {
             "type":"Higher Secondary",
-            "year":"2019-21",
+            "year":"July 2019 - Aug 2021",
             "institute":"Govt. Higher secondary School, Rourkela",
             "score":"88.17%"
         },
         {
             "type":"Secondary School",
-            "year":"2014-19",
+            "year":"Apr 2014 - May 2019",
             "institute":"Chinmaya Vidyalaya, Rourkela",
             "score":"86.33%"
         }
     ],
     "work_experience":[
         {
-            "role":"Fresher",
-            "year":"2026 onwards",
-            "institute":"Waiting to get Hired",
-            "desc":"I will be happy to get hired for a team which consists enthusiastic people like me striving for flawless work"
+            "role":"Full Stack Developer Intern",
+            "year":"June 2025 - July 2025",
+            "institute":"IT Centre, East Coast Railway - Bhubaneswar",
+            "desc":"Built and deployed a digital ID card application portal for Railway Employees"
+        },
+        {
+            "role":"Summer Intern",
+            "year":"May 2025 - June 2025",
+            "institute":"Integrated Test Range - DRDO",
+            "desc":"Researched the YOLO algorithm and presented key insights from academic literature to mentors"
         }
     ],
     "projects":[
         {
+            "img_url":"/ecorproject.png",
+            "name":"ID Card Generation System",
+            "desc":"An ID Card Application Portal that digitizes the process of applying, verifying, and issuing ID cards—replacing manual workflows with an web-based system",
+            "tech":["React.js","Express.js","MongoDB","Tailwind CSS","React-router","Mongoose","html2canvas","jspdf","sharp","express-validator","Postman","vercel","Railway.app"],
+            "link":"https://apply-id-ecor.vercel.app/"
+        },{
             "img_url":"/uberproject.png",
-            "name":"Uber - A full stack app",
-            "desc":"A full-stack Uber clone which allows users to sign up, book rides, and track them in real time, while captains can accept or reject ride requests.",
-            "tech":["React.js","Express.js","MongoDB","Tailwind CSS","React-router","Socket.io","Mongoose","Postman","vercel","Railway.app"],
+            "name":"UberLite",
+            "desc":"A minimalistic full-stack Uber clone which allows users to sign up, book rides, and track them in real time, while captains can accept or reject ride requests",
+            "tech":["React.js","Express.js","MongoDB","Tailwind CSS","React-router","Socket.io","Mongoose","express-validator","Postman","vercel","Railway.app"],
             "link":"https://uber-frontend-taupe.vercel.app/"
         },
         {
             "img_url":"/spotifyproject.png",
             "name":"Web Music - A spotify Inspiration",
-            "desc":"A frontend music app for seamless playback, dynamic library updates, easy navigation, and a responsive design, ensuring a smooth and enjoyable user experience across all devices.",
+            "desc":"A frontend music app for seamless playback, dynamic library updates, easy navigation, and a responsive design, ensuring a smooth and enjoyable user experience across all devices",
             "tech":["HTML","CSS","JavaScript"],
             "link":"https://github.com/pritish-ranjan-sahoo/music_web_app"
         },
         {
             "img_url":"/todoproject.png",
             "name":"iTask - Your own task manager",
-            "desc":"A simple To-Do app for efficient task management, allowing users to add, edit, delete, complete and filter tasks for better organization and productivity.",
+            "desc":"A simple To-Do app for efficient task management, allowing users to add, edit, delete, complete and filter tasks for better organization and productivity",
             "tech":["React.js","Tailwind CSS","Vite"],
             "link":"https://github.com/pritish-ranjan-sahoo/todo_application"
-        },
-        {
-            "img_url":"/amazonproject.png",
-            "name":"Amazon.in - the UI/UX clone",
-            "desc":"A UI/UX pixel perfect replica of Amazon.in. This project is a static front-end clone that visually mimics Amazon's website layout without any backend functionality.",
-            "tech":["HTML","CSS"],
-            "link":"https://github.com/pritish-ranjan-sahoo/amazon_clone"
         }
     ]
 }

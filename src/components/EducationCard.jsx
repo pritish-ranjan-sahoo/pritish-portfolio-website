@@ -9,7 +9,7 @@ export default function EducationCard({ education }) {
             <strong className="text-lg font-semibold capitalize">
               {edu.type}
             </strong>
-            <span className="text-xs italic capitalize">( {edu.year} )</span>
+            <span className="text-xs italic capitalize text-amber-200">( {edu.year} )</span>
           </p>
           <p className="text-sm capitalize text-blue-400">{edu.institute}</p>
           <p className="text-sm font-mono capitalize">

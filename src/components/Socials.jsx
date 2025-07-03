@@ -11,7 +11,7 @@ export default function Socials() {
           height={18}
           className="text-gray-200 hover:text-white invert"
         />
-        <span className="">+91 8338927571</span>
+        <span className="">+91-8338927571</span>
       </p>
       <div className="w-full py-3 gap-8 flex justify-center items-center">
         <a
