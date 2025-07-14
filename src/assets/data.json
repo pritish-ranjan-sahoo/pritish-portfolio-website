@@ -10,19 +10,19 @@
             "type":"B.Tech. in CSE",
             "year":"Oct 2022 - Present",
             "institute":"IGIT, Sarang",
-            "score":"CGPA : 9.04/10.0 (till 5th Sem)"
+            "score":"CGPA: 9.04"
         },
         {
             "type":"Higher Secondary",
             "year":"July 2019 - Aug 2021",
             "institute":"Govt. Higher secondary School, Rourkela",
-            "score":"88.17%"
+            "score":"Score: 88.17%"
         },
         {
             "type":"Secondary School",
             "year":"Apr 2014 - May 2019",
             "institute":"Chinmaya Vidyalaya, Rourkela",
-            "score":"86.33%"
+            "score":"Score: 86.33%"
         }
     ],
     "work_experience":[
