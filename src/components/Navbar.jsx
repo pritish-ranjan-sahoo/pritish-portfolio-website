@@ -9,8 +9,8 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <a href="#home" className="font-mono text-xl font-bold text-white">
-            <span className="text-blue-500">{"<"}</span>ENGG.
-            <span className="text-blue-500">Pritish{"/>"}</span>
+            <span className="text-blue-500">{"<"}</span>Pritish
+            <span className="text-blue-500">.dev{"/>"}</span>
           </a>
 
           <div

@@ -14,7 +14,7 @@ export const Home = () => {
           className="rounded-full border-blue-500/30 shadow-[0_0_45px_rgba(59,130,246,0.6)] hover:scale-110 duration-300"
           />
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
+          <h1 className="text-5xl font-semibold md:text-7xl md:font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
             Hi, I'm Pritish Ranjan Sahoo
           </h1>
 
